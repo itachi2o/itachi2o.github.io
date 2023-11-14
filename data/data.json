@@ -44,60 +44,30 @@
    "descripcion": "200 gr de huevo - 105 gr leche fría - 500 gr harina - 140 gr sal - 240 gr mantequilla"
   },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          },
+  {
+   "producto": "MASA FEITE",
+   "descripcion": "1kg harina - 15 gr sal - 100 gr mantequilla - 550 gr agua fría - 2 pza. huevo - 650 gr mantequilla Flex roja"
+  },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
+  {
+    "producto": "FOVACE-FOVEE",
+    "descripcion": "75 ml agua - 110 gr harina - 5 gr levadura fresca - 50 ml agua - 8 gr levadura fresca - 700 gr harina - 18 gr sal - 50 ml aceite - 10 sal de grano"
+  }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          }, 
+  {
+    "producto": "MASA DANES",
+    "descripcion": "1 kg de harina - 12 gr sal - 15 gr levadura - 350 gr de huevo - 240 ml leche - 240 gr azúcar - 100 gr mantequilla - 500 gr margarina Flex azul - 2 pza. huevo"
+  }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          },
+ {
+   "producto": "CREMA PASTELERA",
+    "descripcion": "1 lt de leche -6 yemas - 250 de azúcar - 70 gr de maicena - Canela en raja"
+ },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
-
-          {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
+ {
+   "producto": "GLASSE",
+   "descripcion": "Clara de huevo - Leche o agua - Azúcar glass"
+  },
 
            {
             "producto": "",
@@ -137,6 +107,36 @@
            {
             "producto": "",
             "descripcion": ""
+          }, 
+
+          {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
           },
 
            {
@@ -149,10 +149,10 @@
             "descripcion": ""
           }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          },
+  {
+    "producto": "",
+    "descripcion": ""
+  },
 
            {
             "producto": "",
@@ -194,10 +194,10 @@
             "descripcion": ""
           }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          }, 
+ {
+  "producto": "",
+  "descripcion": ""
+ }, 
 
  {
    "producto": "",
@@ -213,72 +213,6 @@
    "producto": "",
    "descripcion": ""
   }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
