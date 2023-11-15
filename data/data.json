@@ -101,49 +101,49 @@
  },
 
   {
-    "producto": "",
-    "descripcion": ""
+    "producto": "YOYOS",
+    "descripcion": "500 gr azúcar-250 gr margarina - 200 gr manteca vegetal - 7 pza huevo -  ½ de leche liquida - 75 gr de masa de concha - 75 gr royal - Canela al gusto"
  },
 
  {
-   "producto": "",
-   "descripcion": ""
+   "producto": "PAN DE ELOTE",
+   "descripcion": "500 gr masa - 10 pza de huevo - 750 gr azúcar - Batir por 20 minutos - 750 gr de harina-  75 gr de royal - 300 gr de aceite - 100 ml de leche liquida - 300 gr de agua"
  }, 
 
  {
+   "producto": "BIZCOCHO DE SAGU",
+   "descripcion": "1 kg de azúcar - 1 lt de agua - 1.750 de manteca -2 kg de harina - 150 ge royal - 3 fecula - Vainilla"
+ },
+
+ {
+   "producto": "LUPITAS",
+   "descripcion": "1.500 gr de azúcar - 400 gr de huevo- 400 gr leche - 500 gr de manteca - 3 kg de harina - 80 gr de royal - Color amarillo"
+ },
+
+ {
+   "producto": "DONAS",
+   "descripcion": "1 kg de harina - 150 gr de mantequilla - 15 gr da sal - 25 gr de levadura instantánea - Leche l/n - 200 gr de huevo - 15 ml vainilla - 175 gr azúcar"
+ },
+
+ {
    "producto": "",
    "descripcion": ""
  },
 
  {
    "producto": "",
-    "descripcion": ""
+   "descripcion": ""
  },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
+  {
+   "producto": "",
+   "descripcion": ""
+ },
+      
+ {
+   "producto": "",
+   "descripcion": ""
+  }, 
 
  {
     "producto": "",
@@ -155,39 +155,40 @@
     "descripcion": ""
   },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          },
+  {
+    "producto": "",
+    "descripcion": ""
+  },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
+ {
+   "producto": "",
+   "descripcion": ""
+ }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          },
+ {
+   "producto": "",
+   "descripcion": ""
+  },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
-          {
-            "producto": "",
-            "descripcion": ""
-          }, 
+ {
+   "producto": "",
+   "descripcion": ""
+ }, 
+         
+ {
+   "producto": "",
+   "descripcion": ""
+ }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          },
+ {
+   "producto": "",
+   "descripcion": ""
+  },
 
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
+ {
+   "producto": "",
+   "descripcion": ""
+  }, 
 
  {         
    "producto": "",
