@@ -1,43 +1,42 @@
 [
  {
-  "producto": "SOURDOUGHT",
-  "descripcion": "400 gr de harina - 230 gr de agua - 10 de sal - 160 de masa madre"
-
+   "producto": "SOURDOUGHT",
+   "descripcion": "400 gr de harina - 230 gr de agua - 10 de sal - 160 de masa madre"
  },
 
  {
-  "producto": "PIZZA",
-  "descripcion": "5 gr levadura,400 gr de harina,200 ml de agua,2 cucharadas de aceite de oliva,1 pizca de sal,Masa madre" 
+   "producto": "PIZZA",
+   "descripcion": "5 gr levadura,400 gr de harina,200 ml de agua,2 cucharadas de aceite de oliva,1 pizca de sal,Masa madre" 
  },
 
  {
-  "producto": "FOCACCIA",
-  "descripcion": "500 gr de harina, 15 g de levadura, Agua tibia, 10 gr de sal, 45 ml de aceite de oliva, 100 gr de queso parmesano, 5 gr de romero,"
+   "producto": "FOCACCIA",
+   "descripcion": "500 gr de harina, 15 g de levadura, Agua tibia, 10 gr de sal, 45 ml de aceite de oliva, 100 gr de queso parmesano, 5 gr de romero,"
  }, 
 
  {
-  "producto": "CIAPATTA",
-  "descripcion": "500 gr de harina, 15 g de levadura, Agua tibia, 10 gr de sal, 45 ml de aceite de oliva, 100 gr de queso parmesano, 5 gr de romero,"
+   "producto": "CIAPATTA",
+   "descripcion": "500 gr de harina, 15 g de levadura, Agua tibia, 10 gr de sal, 45 ml de aceite de oliva, 100 gr de queso parmesano, 5 gr de romero,"
  },
      
  {
-  "producto": "BEGEL POCHADO",
-  "descripcion": "500 gr de harina, 15 g de levadura, Agua tibia, 10 gr de sal, 45 ml de aceite de oliva, 100 gr de queso parmesano, 5 gr de romero,"
+   "producto": "BEGEL POCHADO",
+   "descripcion": "500 gr de harina, 15 g de levadura, Agua tibia, 10 gr de sal, 45 ml de aceite de oliva, 100 gr de queso parmesano, 5 gr de romero,"
  }, 
 
  {
-  "producto": "POLISH",
-  "descripcion": "500gr harina - 500 gr agua - 5 levadura - 15 gr masa madre"
+   "producto": "POLISH",
+   "descripcion": "500gr harina - 500 gr agua - 5 levadura - 15 gr masa madre"
  }, 
 
  {
-  "producto": "MASA",
-  "descripcion": "500gr harina - 125 gr agua - 18 gr sal -5 levadura"
+   "producto": "MASA",
+   "descripcion": "500gr harina - 125 gr agua - 18 gr sal -5 levadura"
  },
 
  {
-  "producto": "PANETTONE",
-  "descripcion": "90 gr pasa - 140 gr pasas alubias - 160 gr naranjas - 160 gr limón - 80 ml ron - 5 gr levadura - 250 gr leche - 5 gr sal - 250 gr harina - 750 gr harina - 1 barra de mantequilla - 200 gr harina - 15 gr sal - 200 ml leche - 320 gr mantequilla - 30 gr levadura - 200 gr yemas"
+   "producto": "PANETTONE",
+   "descripcion": "90 gr pasa - 140 gr pasas alubias - 160 gr naranjas - 160 gr limón - 80 ml ron - 5 gr levadura - 250 gr leche - 5 gr sal - 250 gr harina - 750 gr harina - 1 barra de mantequilla - 200 gr harina - 15 gr sal - 200 ml leche - 320 gr mantequilla - 30 gr levadura - 200 gr yemas"
   }, 
 
   {
