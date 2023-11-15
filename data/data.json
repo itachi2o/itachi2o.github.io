@@ -69,6 +69,71 @@
    "descripcion": "Clara de huevo - Leche o agua - Azúcar glass"
   },
 
+ {
+   "producto": "TELERAS",
+   "descripcion": "1 kg harina - 80 gr manteca vegetal - 20 gr sal - 20 gr levadura - 90 gr azúcar - 20 gr mejoran te"
+  },
+
+  {
+    "producto": "BOLILLOS",
+    "descripcion": "1 kg harina - 20 gr sal - 20 gr levadura - 20 gr mejoran te - Agua"
+  }, 
+
+ {
+   "producto": "MANTECADA Y PANQUE",
+   "descripcion": "5 huevos - 400 harina - 400 gr azúcar - 500 mantequilla - 500 ml leche - 40 gr polvo para hornear "
+  },
+
+ {
+   "producto": "YOYOS O BESOS ",
+   "descripcion": "1 kg de harina - 660 gr margarina - 440 gr azúcar - 150 gr huevo - 1 pza yema - 160 ml leche 20 gr polvo para hornear -140 gr mantequilla - 1 kg azúcar refinada"
+ },
+
+ {
+   "producto": "CREMA DE COCO",
+   "descripcion": "160 gr de leche polvo-2 lt de agua-350 gr de azúcar-250 gr fécula-150 gr de coco rallado"
+  },
+
+ {
+   "producto": "PLAY DE QUESO",
+   "descripcion": "Pote y medio de huevo - 200 gr de queso - 2 latas de nestlé - Limón -1 kg de azúcar - 1 kg de margarina - 10 pz de huevo - 2 kg harina - 100 gr azúcar glass - 1 pz de huevo - 200 gr de harina - 100 gr de harina"
+ },
+
+  {
+    "producto": "",
+    "descripcion": ""
+ },
+
+ {
+   "producto": "",
+   "descripcion": ""
+ }, 
+
+ {
+   "producto": "",
+   "descripcion": ""
+ },
+
+ {
+   "producto": "",
+    "descripcion": ""
+ },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
+           {
+            "producto": "",
+            "descripcion": ""
+          },
+
            {
             "producto": "",
             "descripcion": ""
@@ -79,75 +144,10 @@
             "descripcion": ""
           }, 
 
-          {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
-
-          {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          },
-
-           {
-            "producto": "",
-            "descripcion": ""
-          }, 
-
-          {
-            "producto": "",
-            "descripcion": ""
-          }, 
+ {
+    "producto": "",
+    "descripcion": ""
+  }, 
 
   {
     "producto": "",
@@ -188,15 +188,14 @@
             "descripcion": ""
           }, 
 
-          {
-            
-            "producto": "",
-            "descripcion": ""
-          }, 
+ {         
+   "producto": "",
+   "descripcion": ""
+ }, 
 
  {
-  "producto": "",
-  "descripcion": ""
+   "producto": "",
+   "descripcion": ""
  }, 
 
  {
